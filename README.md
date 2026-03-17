@@ -239,6 +239,16 @@ function calcMult(ms) {
 
 ---
 
+## License
+
+This software is proprietary and licensed under the **Crash Point Signal Pro License**. See the [LICENSE](LICENSE) file for full terms and conditions.
+
+- **Personal Use Only** - This software is for educational and analytical purposes
+- **No Commercial Use** - Commercial use, monetization, or redistribution is strictly prohibited
+- **No Derivatives** - Creating derivative works is not allowed
+
+---
+
 ## Disclaimer
 
 This tool is for educational and analytical purposes only. Gambling involves financial risk. Use responsibly and at your own discretion. The developers assume no liability for any losses incurred while using this script.
