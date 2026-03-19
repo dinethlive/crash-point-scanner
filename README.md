@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/crash-point-scanner-ss-1.png" alt="Crash Point Signal Pro Interface" width="320" />
+  <img src="screenshots/crash-point-scanner-ss-1.png" alt="Crash Point Signal Pro Interface" width="720" />
 </p>
 
 <h1 align="center">Crash Point Signal Pro v3</h1>
